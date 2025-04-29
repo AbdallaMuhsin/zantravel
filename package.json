@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://www.zantravel.com",
   "scripts": {
     "upload-images": "node scripts/upload.mjs",
     "generate-sitemap": "node scripts/generateSitemap.mjs",
