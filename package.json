@@ -7,7 +7,8 @@
     "upload-images": "node scripts/upload.mjs",
     "generate-sitemap": "node scripts/generateSitemap.mjs",
     "dev": "vite",
-    "build": "node scripts/generateSitemap.mjs && tsc && vite build",
+    "build": "vite build",
+    "postbuild": "node scripts/generateSitemap.mjs",
     "lint": "eslint .",
     "preview": "vite preview"
   },
