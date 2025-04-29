@@ -1,0 +1,937 @@
+[
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\adventure.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862272/zantravel/activities-image/adventure.jpg",
+    "publicId": "zantravel/activities-image/adventure"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\dolph2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862273/zantravel/activities-image/dolph2.jpg",
+    "publicId": "zantravel/activities-image/dolph2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\fishing.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862275/zantravel/activities-image/fishing.jpg",
+    "publicId": "zantravel/activities-image/fishing"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\fishing1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862276/zantravel/activities-image/fishing1.jpg",
+    "publicId": "zantravel/activities-image/fishing1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\fishing3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862278/zantravel/activities-image/fishing3.jpg",
+    "publicId": "zantravel/activities-image/fishing3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\forodhani night.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862279/zantravel/activities-image/forodhani%20night.jpg",
+    "publicId": "zantravel/activities-image/forodhani night"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\horse.png",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862281/zantravel/activities-image/horse.jpg",
+    "publicId": "zantravel/activities-image/horse"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\jet.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862294/zantravel/activities-image/jet.jpg",
+    "publicId": "zantravel/activities-image/jet"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\jetsk1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862305/zantravel/activities-image/jetsk1.jpg",
+    "publicId": "zantravel/activities-image/jetsk1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\jetski.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862309/zantravel/activities-image/jetski.jpg",
+    "publicId": "zantravel/activities-image/jetski"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\jozani forest.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862315/zantravel/activities-image/jozani%20forest.jpg",
+    "publicId": "zantravel/activities-image/jozani forest"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\kendwa-beach.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862317/zantravel/activities-image/kendwa-beach.jpg",
+    "publicId": "zantravel/activities-image/kendwa-beach"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\kilimanjaro.PNG",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862321/zantravel/activities-image/kilimanjaro.jpg",
+    "publicId": "zantravel/activities-image/kilimanjaro"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\kite surfing.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862328/zantravel/activities-image/kite%20surfing.jpg",
+    "publicId": "zantravel/activities-image/kite surfing"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\kuza1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862332/zantravel/activities-image/kuza1.jpg",
+    "publicId": "zantravel/activities-image/kuza1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\kuzacafe.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862334/zantravel/activities-image/kuzacafe.jpg",
+    "publicId": "zantravel/activities-image/kuzacafe"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\maalum-cave.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862335/zantravel/activities-image/maalum-cave.jpg",
+    "publicId": "zantravel/activities-image/maalum-cave"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\maalum.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862336/zantravel/activities-image/maalum.jpg",
+    "publicId": "zantravel/activities-image/maalum"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\marine-1629758_1280.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862339/zantravel/activities-image/marine-1629758_1280.jpg",
+    "publicId": "zantravel/activities-image/marine-1629758_1280"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\mikumi national park.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862343/zantravel/activities-image/mikumi%20national%20park.jpg",
+    "publicId": "zantravel/activities-image/mikumi national park"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\nakupenda sandbaank.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862346/zantravel/activities-image/nakupenda%20sandbaank.jpg",
+    "publicId": "zantravel/activities-image/nakupenda sandbaank"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\ngorongoro.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862349/zantravel/activities-image/ngorongoro.jpg",
+    "publicId": "zantravel/activities-image/ngorongoro"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\nungwi village.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862352/zantravel/activities-image/nungwi%20village.jpg",
+    "publicId": "zantravel/activities-image/nungwi village"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\nungwi-beach.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862355/zantravel/activities-image/nungwi-beach.jpg",
+    "publicId": "zantravel/activities-image/nungwi-beach"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\other.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862358/zantravel/activities-image/other.jpg",
+    "publicId": "zantravel/activities-image/other"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\parasailing.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862359/zantravel/activities-image/parasailing.jpg",
+    "publicId": "zantravel/activities-image/parasailing"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\prison island.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862362/zantravel/activities-image/prison%20island.jpg",
+    "publicId": "zantravel/activities-image/prison island"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\quad.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862365/zantravel/activities-image/quad.jpg",
+    "publicId": "zantravel/activities-image/quad"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\safari blue.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862368/zantravel/activities-image/safari%20blue.jpg",
+    "publicId": "zantravel/activities-image/safari blue"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\serengeti.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862371/zantravel/activities-image/serengeti.jpg",
+    "publicId": "zantravel/activities-image/serengeti"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\Snorkeling.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862374/zantravel/activities-image/snorkeling.jpg",
+    "publicId": "zantravel/activities-image/snorkeling"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\spice firm.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862376/zantravel/activities-image/spice%20firm.jpg",
+    "publicId": "zantravel/activities-image/spice firm"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\Stone town tour.jpeg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862379/zantravel/activities-image/stone%20town%20tour.jpg",
+    "publicId": "zantravel/activities-image/stone town tour"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\sunset cruise.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862381/zantravel/activities-image/sunset%20cruise.jpg",
+    "publicId": "zantravel/activities-image/sunset cruise"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\sup.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862391/zantravel/activities-image/sup.jpg",
+    "publicId": "zantravel/activities-image/sup"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\sup2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862395/zantravel/activities-image/sup2.jpg",
+    "publicId": "zantravel/activities-image/sup2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\swim-turtle.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862397/zantravel/activities-image/swim-turtle.jpg",
+    "publicId": "zantravel/activities-image/swim-turtle"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\swimming-fish.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862398/zantravel/activities-image/swimming-fish.jpg",
+    "publicId": "zantravel/activities-image/swimming-fish"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\the rock restaurent-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862400/zantravel/activities-image/the%20rock%20restaurent-1.jpg",
+    "publicId": "zantravel/activities-image/the rock restaurent-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\the rock restaurent.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862402/zantravel/activities-image/the%20rock%20restaurent.jpg",
+    "publicId": "zantravel/activities-image/the rock restaurent"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\tumbatu island.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862405/zantravel/activities-image/tumbatu%20island.jpg",
+    "publicId": "zantravel/activities-image/tumbatu island"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\turtle2.JPG",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862407/zantravel/activities-image/turtle2.jpg",
+    "publicId": "zantravel/activities-image/turtle2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\village1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862408/zantravel/activities-image/village1.jpg",
+    "publicId": "zantravel/activities-image/village1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\volunteer.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862415/zantravel/activities-image/volunteer.jpg",
+    "publicId": "zantravel/activities-image/volunteer"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\watersport.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862418/zantravel/activities-image/watersport.jpg",
+    "publicId": "zantravel/activities-image/watersport"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\forodhani-market-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862421/zantravel/activity-detail-image/forodhani-market-1.jpg",
+    "publicId": "zantravel/activity-detail-image/forodhani-market-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\forodhani-market-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862423/zantravel/activity-detail-image/forodhani-market-3.jpg",
+    "publicId": "zantravel/activity-detail-image/forodhani-market-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\fukuchani.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862428/zantravel/activity-detail-image/fukuchani.jpg",
+    "publicId": "zantravel/activity-detail-image/fukuchani"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\horse-0.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862432/zantravel/activity-detail-image/horse-0.jpg",
+    "publicId": "zantravel/activity-detail-image/horse-0"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\horse-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862436/zantravel/activity-detail-image/horse-1.jpg",
+    "publicId": "zantravel/activity-detail-image/horse-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\jozani-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862439/zantravel/activity-detail-image/jozani-1.jpg",
+    "publicId": "zantravel/activity-detail-image/jozani-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\jozani-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862440/zantravel/activity-detail-image/jozani-2.jpg",
+    "publicId": "zantravel/activity-detail-image/jozani-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\jozani-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862443/zantravel/activity-detail-image/jozani-3.jpg",
+    "publicId": "zantravel/activity-detail-image/jozani-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kendwa-beach-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862445/zantravel/activity-detail-image/kendwa-beach-1.jpg",
+    "publicId": "zantravel/activity-detail-image/kendwa-beach-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kilimanjaro-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862448/zantravel/activity-detail-image/kilimanjaro-1.jpg",
+    "publicId": "zantravel/activity-detail-image/kilimanjaro-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kilimanjaro-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862459/zantravel/activity-detail-image/kilimanjaro-2.jpg",
+    "publicId": "zantravel/activity-detail-image/kilimanjaro-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kilimanjaro-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862466/zantravel/activity-detail-image/kilimanjaro-3.jpg",
+    "publicId": "zantravel/activity-detail-image/kilimanjaro-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kite-surfing-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862478/zantravel/activity-detail-image/kite-surfing-2.jpg",
+    "publicId": "zantravel/activity-detail-image/kite-surfing-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kite-surfing-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862489/zantravel/activity-detail-image/kite-surfing-3.jpg",
+    "publicId": "zantravel/activity-detail-image/kite-surfing-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\mikumi-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862492/zantravel/activity-detail-image/mikumi-1.jpg",
+    "publicId": "zantravel/activity-detail-image/mikumi-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\mikumi-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862496/zantravel/activity-detail-image/mikumi-2.jpg",
+    "publicId": "zantravel/activity-detail-image/mikumi-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\mikumi-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862506/zantravel/activity-detail-image/mikumi-3.jpg",
+    "publicId": "zantravel/activity-detail-image/mikumi-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nakupenda-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862508/zantravel/activity-detail-image/nakupenda-1.jpg",
+    "publicId": "zantravel/activity-detail-image/nakupenda-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nakupenda-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862521/zantravel/activity-detail-image/nakupenda-2.jpg",
+    "publicId": "zantravel/activity-detail-image/nakupenda-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nakupenda-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862525/zantravel/activity-detail-image/nakupenda-3.jpg",
+    "publicId": "zantravel/activity-detail-image/nakupenda-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\ngorongoro-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862527/zantravel/activity-detail-image/ngorongoro-1.jpg",
+    "publicId": "zantravel/activity-detail-image/ngorongoro-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\ngorongoro-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862530/zantravel/activity-detail-image/ngorongoro-2.jpg",
+    "publicId": "zantravel/activity-detail-image/ngorongoro-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\ngorongoro-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862536/zantravel/activity-detail-image/ngorongoro-3.jpg",
+    "publicId": "zantravel/activity-detail-image/ngorongoro-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nungwi-beach-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862539/zantravel/activity-detail-image/nungwi-beach-1.jpg",
+    "publicId": "zantravel/activity-detail-image/nungwi-beach-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\parasailing-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862541/zantravel/activity-detail-image/parasailing-1.jpg",
+    "publicId": "zantravel/activity-detail-image/parasailing-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\parasailing-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862549/zantravel/activity-detail-image/parasailing-3.jpg",
+    "publicId": "zantravel/activity-detail-image/parasailing-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\prison-island-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862553/zantravel/activity-detail-image/prison-island-1.jpg",
+    "publicId": "zantravel/activity-detail-image/prison-island-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\prison-island-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862554/zantravel/activity-detail-image/prison-island-2.jpg",
+    "publicId": "zantravel/activity-detail-image/prison-island-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\prison-island-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862557/zantravel/activity-detail-image/prison-island-3.jpg",
+    "publicId": "zantravel/activity-detail-image/prison-island-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\quad9.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862560/zantravel/activity-detail-image/quad9.jpg",
+    "publicId": "zantravel/activity-detail-image/quad9"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\rice.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862562/zantravel/activity-detail-image/rice.jpg",
+    "publicId": "zantravel/activity-detail-image/rice"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\safari-blue-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862564/zantravel/activity-detail-image/safari-blue-1.jpg",
+    "publicId": "zantravel/activity-detail-image/safari-blue-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\safari-blue-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862565/zantravel/activity-detail-image/safari-blue-2.jpg",
+    "publicId": "zantravel/activity-detail-image/safari-blue-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\safari-blue-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862568/zantravel/activity-detail-image/safari-blue-3.jpg",
+    "publicId": "zantravel/activity-detail-image/safari-blue-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\serengeti-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862572/zantravel/activity-detail-image/serengeti-1.jpg",
+    "publicId": "zantravel/activity-detail-image/serengeti-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\serengeti-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862576/zantravel/activity-detail-image/serengeti-2.jpg",
+    "publicId": "zantravel/activity-detail-image/serengeti-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\serengeti-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862580/zantravel/activity-detail-image/serengeti-3.jpg",
+    "publicId": "zantravel/activity-detail-image/serengeti-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\snorkeling-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862582/zantravel/activity-detail-image/snorkeling-1.jpg",
+    "publicId": "zantravel/activity-detail-image/snorkeling-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\Snorkeling-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862583/zantravel/activity-detail-image/snorkeling-2.jpg",
+    "publicId": "zantravel/activity-detail-image/snorkeling-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\Snorkeling-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862585/zantravel/activity-detail-image/snorkeling-3.jpg",
+    "publicId": "zantravel/activity-detail-image/snorkeling-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\spice-tour-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862587/zantravel/activity-detail-image/spice-tour-1.jpg",
+    "publicId": "zantravel/activity-detail-image/spice-tour-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\spice-tour-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862589/zantravel/activity-detail-image/spice-tour-2.jpg",
+    "publicId": "zantravel/activity-detail-image/spice-tour-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\spice-tour-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862591/zantravel/activity-detail-image/spice-tour-3.jpg",
+    "publicId": "zantravel/activity-detail-image/spice-tour-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\stone-town-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862592/zantravel/activity-detail-image/stone-town-1.jpg",
+    "publicId": "zantravel/activity-detail-image/stone-town-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\stone-town-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862594/zantravel/activity-detail-image/stone-town-2.jpg",
+    "publicId": "zantravel/activity-detail-image/stone-town-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\stone-town-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862597/zantravel/activity-detail-image/stone-town-3.jpg",
+    "publicId": "zantravel/activity-detail-image/stone-town-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\sunset-cruise-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862598/zantravel/activity-detail-image/sunset-cruise-1.jpg",
+    "publicId": "zantravel/activity-detail-image/sunset-cruise-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\sunset-cruise-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862600/zantravel/activity-detail-image/sunset-cruise-2.jpg",
+    "publicId": "zantravel/activity-detail-image/sunset-cruise-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\sunset-cruise-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862602/zantravel/activity-detail-image/sunset-cruise-3.jpg",
+    "publicId": "zantravel/activity-detail-image/sunset-cruise-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\the-rock-restaurant-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862608/zantravel/activity-detail-image/the-rock-restaurant-1.jpg",
+    "publicId": "zantravel/activity-detail-image/the-rock-restaurant-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\tumbatu-island-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862611/zantravel/activity-detail-image/tumbatu-island-1.jpg",
+    "publicId": "zantravel/activity-detail-image/tumbatu-island-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\tumbatu-island-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862613/zantravel/activity-detail-image/tumbatu-island-2.jpg",
+    "publicId": "zantravel/activity-detail-image/tumbatu-island-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\tumbatu-island-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862616/zantravel/activity-detail-image/tumbatu-island-3.jpg",
+    "publicId": "zantravel/activity-detail-image/tumbatu-island-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\village2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862618/zantravel/activity-detail-image/village2.jpg",
+    "publicId": "zantravel/activity-detail-image/village2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Favicon\\favicon.png",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862620/zantravel/favicon/favicon.png",
+    "publicId": "zantravel/favicon/favicon"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\birds-1099071_1920.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862621/zantravel/gallery-images/birds-1099071_1920.jpg",
+    "publicId": "zantravel/gallery-images/birds-1099071_1920"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\buffalo-235382_1920.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862624/zantravel/gallery-images/buffalo-235382_1920.jpg",
+    "publicId": "zantravel/gallery-images/buffalo-235382_1920"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\fishing.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862627/zantravel/gallery-images/fishing.jpg",
+    "publicId": "zantravel/gallery-images/fishing"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\forodhani night.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862629/zantravel/gallery-images/forodhani%20night.jpg",
+    "publicId": "zantravel/gallery-images/forodhani night"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\hippopotamus.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862631/zantravel/gallery-images/hippopotamus.jpg",
+    "publicId": "zantravel/gallery-images/hippopotamus"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\kendwa-beach.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862632/zantravel/gallery-images/kendwa-beach.jpg",
+    "publicId": "zantravel/gallery-images/kendwa-beach"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\kilimanjaro.PNG",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862637/zantravel/gallery-images/kilimanjaro.jpg",
+    "publicId": "zantravel/gallery-images/kilimanjaro"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\kite surfing.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862644/zantravel/gallery-images/kite%20surfing.jpg",
+    "publicId": "zantravel/gallery-images/kite surfing"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\marine-1629758_1280.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862648/zantravel/gallery-images/marine-1629758_1280.jpg",
+    "publicId": "zantravel/gallery-images/marine-1629758_1280"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\nungwi-beach.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862651/zantravel/gallery-images/nungwi-beach.jpg",
+    "publicId": "zantravel/gallery-images/nungwi-beach"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\prison island.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862654/zantravel/gallery-images/prison%20island.jpg",
+    "publicId": "zantravel/gallery-images/prison island"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\safari blue.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862659/zantravel/gallery-images/safari%20blue.jpg",
+    "publicId": "zantravel/gallery-images/safari blue"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\sendB.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862662/zantravel/gallery-images/sendb.jpg",
+    "publicId": "zantravel/gallery-images/sendb"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\spice firm.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862664/zantravel/gallery-images/spice%20firm.jpg",
+    "publicId": "zantravel/gallery-images/spice firm"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\sup.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862675/zantravel/gallery-images/sup.jpg",
+    "publicId": "zantravel/gallery-images/sup"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\gallery-images\\wildebeests.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862682/zantravel/gallery-images/wildebeests.jpg",
+    "publicId": "zantravel/gallery-images/wildebeests"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-detail-image\\mikumi-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862684/zantravel/package-detail-image/mikumi-1.jpg",
+    "publicId": "zantravel/package-detail-image/mikumi-1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-detail-image\\mikumi-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862689/zantravel/package-detail-image/mikumi-2.jpg",
+    "publicId": "zantravel/package-detail-image/mikumi-2"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-detail-image\\mikumi-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862696/zantravel/package-detail-image/mikumi-3.jpg",
+    "publicId": "zantravel/package-detail-image/mikumi-3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\jozani forest.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862708/zantravel/package-image/jozani%20forest.jpg",
+    "publicId": "zantravel/package-image/jozani forest"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\kilimanjaro.PNG",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862715/zantravel/package-image/kilimanjaro.jpg",
+    "publicId": "zantravel/package-image/kilimanjaro"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\prison island.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862717/zantravel/package-image/prison%20island.jpg",
+    "publicId": "zantravel/package-image/prison island"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\quad.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862719/zantravel/package-image/quad.jpg",
+    "publicId": "zantravel/package-image/quad"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\safari blue.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862725/zantravel/package-image/safari%20blue.jpg",
+    "publicId": "zantravel/package-image/safari blue"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\Snorkeling.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862728/zantravel/package-image/snorkeling.jpg",
+    "publicId": "zantravel/package-image/snorkeling"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\Stone town tour.jpeg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862731/zantravel/package-image/stone%20town%20tour.jpg",
+    "publicId": "zantravel/package-image/stone town tour"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Package-image\\wildebeests.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862735/zantravel/package-image/wildebeests.jpg",
+    "publicId": "zantravel/package-image/wildebeests"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Transpot\\bike.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862738/zantravel/transpot/bike.jpg",
+    "publicId": "zantravel/transpot/bike"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Transpot\\car.jpeg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862740/zantravel/transpot/car.jpg",
+    "publicId": "zantravel/transpot/car"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Transpot\\scooter.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862742/zantravel/transpot/scooter.jpg",
+    "publicId": "zantravel/transpot/scooter"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\bg-image\\transport-bg.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745862742/zantravel/bg-image/transport-bg.jpg",
+    "publicId": "zantravel/bg-image/transport-bg"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\scuba-diving.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940196/zantravel/activities-image/scuba-diving_uazh1k.jpg",
+    "publicId": "zantravel/activities-image/scuba-diving_uazh1k"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\bicycle-adventure.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940501/zantravel/activities-image/bicycle-adventure_ulcmfc.jpg",
+    "publicId": "zantravel/activities-image/bicycle-adventure_ulcmfc"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\fukuchani-village.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940504/zantravel/activities-image/fukuchani-village_wbofmm.jpg",
+    "publicId": "zantravel/activities-image/fukuchani-village_wbofmm"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\horse.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940505/zantravel/activities-image/horse_n4gpp0.jpg",
+    "publicId": "zantravel/activities-image/horse_n4gpp0"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\mnarani aquarium.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940507/zantravel/activities-image/mnarani_aquarium_rqdnt1.jpg",
+    "publicId": "zantravel/activities-image/mnarani_aquarium_rqdnt1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\nungwi beach.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940508/zantravel/activities-image/nungwi_beach_zu3nn5.jpg",
+    "publicId": "zantravel/activities-image/nungwi_beach_zu3nn5"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\paje beach.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940509/zantravel/activities-image/paje_beach_oivx42.jpg",
+    "publicId": "zantravel/activities-image/paje_beach_oivx42"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\sea-walk.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940511/zantravel/activities-image/sea-walk_oyftju.jpg",
+    "publicId": "zantravel/activities-image/sea-walk_oyftju"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\skydive.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940512/zantravel/activities-image/skydive_dbmzbx.jpg",
+    "publicId": "zantravel/activities-image/skydive_dbmzbx"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\Activities-image\\the rock restaurant.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745940514/zantravel/activities-image/the_rock_restaurant_nzq4s3.jpg",
+    "publicId": "zantravel/activities-image/the_rock_restaurant_nzq4s3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\bicycle-adventure-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942056/zantravel/activity-detail-image/bicycle-adventure-1_upchnk.jpg",
+    "publicId": "zantravel/activity-detail-image/bicycle-adventure-1_upchnk"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\bicycle-adventure-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942058/zantravel/activity-detail-image/bicycle-adventure-2_oxfv2g.jpg",
+    "publicId": "zantravel/activity-detail-image/bicycle-adventure-2_oxfv2g"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\bicycle-adventure-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942060/zantravel/activity-detail-image/bicycle-adventure-3_nlodk1.jpg",
+    "publicId": "zantravel/activity-detail-image/bicycle-adventure-3_nlodk1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\fishing-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942062/zantravel/activity-detail-image/fishing-1_zhkdaf.jpg",
+    "publicId": "zantravel/activity-detail-image/fishing-1_zhkdaf"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\fishing-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942064/zantravel/activity-detail-image/fishing-2_qrvs18.jpg",
+    "publicId": "zantravel/activity-detail-image/fishing-2_qrvs18"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\fishing-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942065/zantravel/activity-detail-image/fishing-3_vdlogm.jpg",
+    "publicId": "zantravel/activity-detail-image/fishing-3_vdlogm"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\forodhani-market-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942067/zantravel/activity-detail-image/forodhani-market-2_ytmvtn.jpg",
+    "publicId": "zantravel/activity-detail-image/forodhani-market-2_ytmvtn"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\fukuchani-village-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942068/zantravel/activity-detail-image/fukuchani-village-1_p4cloi.jpg",
+    "publicId": "zantravel/activity-detail-image/fukuchani-village-1_p4cloi"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\fukuchani-village-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942069/zantravel/activity-detail-image/fukuchani-village-2_goxx3h.jpg",
+    "publicId": "zantravel/activity-detail-image/fukuchani-village-2_goxx3h"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\fukuchani-village-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942070/zantravel/activity-detail-image/fukuchani-village-3_vkjcsl.jpg",
+    "publicId": "zantravel/activity-detail-image/fukuchani-village-3_vkjcsl"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\horse-riding-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942072/zantravel/activity-detail-image/horse-riding-1_ehqthy.jpg",
+    "publicId": "zantravel/activity-detail-image/horse-riding-1_ehqthy"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\horse-riding-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942074/zantravel/activity-detail-image/horse-riding-2_bdueso.png",
+    "publicId": "zantravel/activity-detail-image/horse-riding-2_bdueso"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\horse-riding-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942075/zantravel/activity-detail-image/horse-riding-3_hbdiaj.jpg",
+    "publicId": "zantravel/activity-detail-image/horse-riding-3_hbdiaj"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\jet-ski-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942078/zantravel/activity-detail-image/jet-ski-1_ocgmrp.jpg",
+    "publicId": "zantravel/activity-detail-image/jet-ski-1_ocgmrp"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\jet-ski-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942080/zantravel/activity-detail-image/jet-ski-2_klpqak.jpg",
+    "publicId": "zantravel/activity-detail-image/jet-ski-2_klpqak"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\jet-ski-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942083/zantravel/activity-detail-image/jet-ski-3_zymtmz.jpg",
+    "publicId": "zantravel/activity-detail-image/jet-ski-3_zymtmz"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kendwa-beach-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942084/zantravel/activity-detail-image/kendwa-beach-2_hi6so9.jpg",
+    "publicId": "zantravel/activity-detail-image/kendwa-beach-2_hi6so9"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kendwa-beach-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942085/zantravel/activity-detail-image/kendwa-beach-3_qsmv0k.jpg",
+    "publicId": "zantravel/activity-detail-image/kendwa-beach-3_qsmv0k"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\kite-surfing-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942092/zantravel/activity-detail-image/kite-surfing-1_rk8j0u.jpg",
+    "publicId": "zantravel/activity-detail-image/kite-surfing-1_rk8j0u"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\mnarani-aquarium-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942094/zantravel/activity-detail-image/mnarani-aquarium-1_q1k63t.jpg",
+    "publicId": "zantravel/activity-detail-image/mnarani-aquarium-1_q1k63t"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\mnarani-aquarium-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942095/zantravel/activity-detail-image/mnarani-aquarium-2_h4ca2z.jpg",
+    "publicId": "zantravel/activity-detail-image/mnarani-aquarium-2_h4ca2z"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\mnarani-aquarium-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942096/zantravel/activity-detail-image/mnarani-aquarium-3_vp77zc.jpg",
+    "publicId": "zantravel/activity-detail-image/mnarani-aquarium-3_vp77zc"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nungwi-beach-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942097/zantravel/activity-detail-image/nungwi-beach-2_dpnkp4.jpg",
+    "publicId": "zantravel/activity-detail-image/nungwi-beach-2_dpnkp4"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nungwi-beach-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942098/zantravel/activity-detail-image/nungwi-beach-3_eeb2fq.jpg",
+    "publicId": "zantravel/activity-detail-image/nungwi-beach-3_eeb2fq"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nungwi-village-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942100/zantravel/activity-detail-image/nungwi-village-1_rx2w1v.jpg",
+    "publicId": "zantravel/activity-detail-image/nungwi-village-1_rx2w1v"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nungwi-village-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942105/zantravel/activity-detail-image/nungwi-village-2_jstvy3.jpg",
+    "publicId": "zantravel/activity-detail-image/nungwi-village-2_jstvy3"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\nungwi-village-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942110/zantravel/activity-detail-image/nungwi-village-3_nioekp.jpg",
+    "publicId": "zantravel/activity-detail-image/nungwi-village-3_nioekp"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\paje-beach-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942114/zantravel/activity-detail-image/paje-beach-1_bpzg3d.jpg",
+    "publicId": "zantravel/activity-detail-image/paje-beach-1_bpzg3d"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\paje-beach-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942118/zantravel/activity-detail-image/paje-beach-2_evrxml.jpg",
+    "publicId": "zantravel/activity-detail-image/paje-beach-2_evrxml"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\paje-beach-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942120/zantravel/activity-detail-image/paje-beach-3_qbaqs1.jpg",
+    "publicId": "zantravel/activity-detail-image/paje-beach-3_qbaqs1"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\parasailing-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942125/zantravel/activity-detail-image/parasailing-2_srqmhl.jpg",
+    "publicId": "zantravel/activity-detail-image/parasailing-2_srqmhl"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\quad1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942127/zantravel/activity-detail-image/quad1_ellojj.jpg",
+    "publicId": "zantravel/activity-detail-image/quad1_ellojj"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\quad2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942129/zantravel/activity-detail-image/quad2_xvrxqd.jpg",
+    "publicId": "zantravel/activity-detail-image/quad2_xvrxqd"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\scuba-diving-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942132/zantravel/activity-detail-image/scuba-diving-1_r3vlug.jpg",
+    "publicId": "zantravel/activity-detail-image/scuba-diving-1_r3vlug"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\scuba-diving-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942133/zantravel/activity-detail-image/scuba-diving-2_xaemet.jpg",
+    "publicId": "zantravel/activity-detail-image/scuba-diving-2_xaemet"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\scuba-diving-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942138/zantravel/activity-detail-image/scuba-diving-3_qwf38w.jpg",
+    "publicId": "zantravel/activity-detail-image/scuba-diving-3_qwf38w"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\the-rock-restaurant-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942139/zantravel/activity-detail-image/the-rock-restaurant-2_psb03j.jpg",
+    "publicId": "zantravel/activity-detail-image/the-rock-restaurant-2_psb03j"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\the-rock-restaurant-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942141/zantravel/activity-detail-image/the-rock-restaurant-3_rqxs3r.jpg",
+    "publicId": "zantravel/activity-detail-image/the-rock-restaurant-3_rqxs3r"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\village1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942142/zantravel/activity-detail-image/village1_d6qawe.jpg",
+    "publicId": "zantravel/activity-detail-image/village1_d6qawe"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\zanzibar-sea-walk-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942144/zantravel/activity-detail-image/zanzibar-sea-walk-1_fvutnr.jpg",
+    "publicId": "zantravel/activity-detail-image/zanzibar-sea-walk-1_fvutnr"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\zanzibar-sea-walk-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942153/zantravel/activity-detail-image/zanzibar-sea-walk-2_oz7bza.jpg",
+    "publicId": "zantravel/activity-detail-image/zanzibar-sea-walk-2_oz7bza"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\zanzibar-sea-walk-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942158/zantravel/activity-detail-image/zanzibar-sea-walk-3_e1ksue.jpg",
+    "publicId": "zantravel/activity-detail-image/zanzibar-sea-walk-3_e1ksue"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\zanzibar-skydive- (1).jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942160/zantravel/activity-detail-image/zanzibar-skydive-_1_n0nfou.jpg",
+    "publicId": "zantravel/activity-detail-image/zanzibar-skydive-_1_n0nfou"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\zanzibar-skydive-1.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942161/zantravel/activity-detail-image/zanzibar-skydive-1_wyqzia.jpg",
+    "publicId": "zantravel/activity-detail-image/zanzibar-skydive-1_wyqzia"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\zanzibar-skydive-2.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942162/zantravel/activity-detail-image/zanzibar-skydive-2_xcpcua.jpg",
+    "publicId": "zantravel/activity-detail-image/zanzibar-skydive-2_xcpcua"
+  },
+  {
+    "originalPath": "C:\\Users\\Dulla\\Desktop\\project 1\\src\\assets\\activity-detail-image\\zanzibar-skydive-3.jpg",
+    "cloudinaryUrl": "https://res.cloudinary.com/dftddtxip/image/upload/v1745942169/zantravel/activity-detail-image/zanzibar-skydive-3_c7x513.jpg",
+    "publicId": "zantravel/activity-detail-image/zanzibar-skydive-3_c7x513"
+  }
+]

@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://zantravel.com/sitemap.xml
+
+# Prevent crawling of non-public pages
+Disallow: /internal/
+Disallow: /admin/
+Disallow: /booking/checkout
+Disallow: /booking?*
+Disallow: /*?ref=*
+Disallow: /*?source=*
+
+# Set crawl rate
+Crawl-delay: 10
