@@ -1,6 +1,6 @@
 [build]
-command = "yarn build"
-publishDirectory = "build"
+command = "npm run build"
+publish = "dist"
 base = "/"
 
 [build.environment]
